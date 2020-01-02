@@ -1,2 +1,2 @@
-<br>MyApp</br>
-<br>This is my app</br>
+MyApp\
+This is my app
